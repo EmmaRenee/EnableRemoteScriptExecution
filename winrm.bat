@@ -1,0 +1,1 @@
+winrm.cmd quickconfig -quiet
